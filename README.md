@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Latimer Harris-Ward (@lharrisw)!
-- 👀 I’m interested in pure and applied mathematics, as well as music composition, singing, an YouTube.
-- 🌱 I’m currently a Masters student at Cal Poly Pomona!
-- 💞️ I’m looking to collaborate on projects related to optimizing numerical solvers of PDEs.
+- 👀 I’m interested in pure and applied mathematics and physics, as well as music composition, singing, hiking, reading, and YouTube, to name a few.
+- 🌱 I’m currently a Masters student at Cal Poly Pomona and a BAMM! Scholar!
+- 💞️ I’m looking to collaborate on projects related to optimizing numerical solvers of PDEs, mathematical modeling of physical systems, and human meta-learning.
 - 📫 How to reach me: ldhward@gmail.com
 
 <!---
