@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Latimer Galvan Harris-Ward (@lharrisw)!
-- 👀 I’m interested in pure and applied mathematics and physics, as well as music composition, singing, hiking, and reading my Bible, to name a few.
-- 🌱 I’m currently a Doctoral Student in Mathematics at the University of Arizona and a University Fellow!
-- 💞️ I’m looking to collaborate on projects related to differential geometry, (geometric) analysis, mathematical modeling of physical systems, the mathematics of String Theory, and more!
-- 📫 How to reach me: ldhward@arizona.edu
+Applied mathematician and scientific-computing researcher with experience in mathematical modeling, numerical analysis, statistical analysis, and scientific software. Former NASA Jet Propulsion Laboratory Mars 2020 intern, where I analyzed Perseverance rover data using Python and Jupyter to support software-update decisions.
+
+M.S. Mathematics | B.S. Applied Mathematics | B.S. Physics
+
+Technical interests: scientific computing, modeling and simulation, numerical methods, optimization, operations research, autonomous systems, data science, and AI/ML.
+
+Primary tools: Python, MATLAB, Jupyter, LaTeX.
 
 <!---
 lharrisw/lharrisw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
